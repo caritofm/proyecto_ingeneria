@@ -73,7 +73,8 @@ export function getAnimalesCard(animales){
         btnAdoptar.textContent = 'Adoptar';
         btnAdoptar.style.textAlign = "center";
         btnAdoptar.style.margin = "auto";
-        btnAdoptar.style.display = "flex"
+        btnAdoptar.style.display = "flex";
+        btnAdoptar.style.backgroundColor = "salmon"
 
         divBody.appendChild(title)
         
